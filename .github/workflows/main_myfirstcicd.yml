@@ -53,4 +53,4 @@ jobs:
           app-name: 'MyfirstCICD'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30EDF405C951402AB340C7579DC63F9F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3DAF8F584404925819DFAD44CE55C5D }}
